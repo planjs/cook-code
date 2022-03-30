@@ -1,0 +1,12 @@
+* text eol=lf
+*.ttf binary
+*.TTP binary
+*.ico binary
+*.scss linguist-vendored
+*.png binary
+*.jpeg binary
+*.jpg binary
+*.woff binary
+*.otf binary
+*.webp binary
+*.xlsx binary
